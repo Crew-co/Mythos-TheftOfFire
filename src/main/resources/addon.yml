@@ -1,0 +1,6 @@
+name: TheftOfFire
+version: 0.1.0
+main: net.crewco.mythos.fire.TheftOfFireAddon
+api-version: 2
+authors: [ Crew-co ]
+description: Prometheus tricks Zeus, steals fire, and is nailed to a rock for it. The eagle does not stop.
