@@ -20,7 +20,7 @@ to worry about. The engine wires the era chain at bootstrap.
 ```
 
 ```kotlin
-compileOnly("net.crewco:mythos-addon-api:0.1.3")   // the only dependency
+compileOnly("net.crewco:mythos-addon-api:0.1.4")   // the only dependency
 ```
 
 `compileOnly`, never `implementation` — a shaded copy of the API is a different class with the same

@@ -1,5 +1,5 @@
 name: TheftOfFire
-version: 0.1.0
+version: 0.1.1
 main: net.crewco.mythos.fire.TheftOfFireAddon
 api-version: 2
 authors: [ Crew-co ]
