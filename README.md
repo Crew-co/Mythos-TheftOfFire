@@ -4,7 +4,7 @@ Prometheus tricks Zeus, steals fire, and is nailed to a rock for it. The eagle d
 stop. **Story #4 — the era `theft-of-fire`.**
 
 ```kotlin
-compileOnly("net.crewco:mythos-addon-api:0.1.0")
+compileOnly("net.crewco:mythos-addon-api:0.1.2")
 ```
 
 ## The story, as mechanics
